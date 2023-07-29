@@ -739,7 +739,7 @@
 # s = input()
 # stack = []
 # cnt = 0
-# for i in range(len(s))
+# for i in range(len(s)):
 #     if s[i] == '(':
 #         stack.append(s[i])
 #     else:
